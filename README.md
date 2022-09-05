@@ -1,8 +1,8 @@
 ### New Project
 
-dotnet new webapi -n MyWebAPICore
-cd MyWebAPICore/
-dotnet build
+dotnet new webapi -n MyWebAPICore\
+cd MyWebAPICore/\
+dotnet build\
 dotnet run
 
 - browser:
